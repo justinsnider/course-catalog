@@ -23,7 +23,7 @@ $('#list').click( function(){
     //Remove ONLY 'grid' Class
     $('.cd-gallery').removeClass('grid');
     //Add ONLY 'list' Class
-    $('.cd-gallery').addClass('class');
+    $('.cd-gallery').addClass('list');
     
     console.log('Vote');
     

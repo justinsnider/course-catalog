@@ -16,6 +16,7 @@ h1 {
 
 /*Content Containers*/
 .cd-gallery li {
+    border-radius: 5px;
     background: white;
     padding: 1em;
 }
@@ -23,12 +24,14 @@ h1 {
 /*Grid View*/
 
 .grid li.mix {
-    background: red;
+    background: white;
 }
 
 
 /*List View*/
 
 .list li.mix {
-    background: blue; 
+    background: white;
+    width: 100%;
+    
 }
